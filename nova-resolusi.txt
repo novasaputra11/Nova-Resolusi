@@ -2,3 +2,4 @@ Nova Saputra
 Mengerjakan Skripsi Setiap minggu per BAB
 tahun depan sidang skripsi dan wisuda
 buat laravel dan vue
+membuat brand logo
